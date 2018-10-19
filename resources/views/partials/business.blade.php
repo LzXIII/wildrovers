@@ -9,11 +9,11 @@
                         <div class="service_slid_item text-center">
                             <div class="service_slid_text">
                                 <span class="icon icon icon-tools text-black"></span>
-                                <h5 class="text-black m-top-20">UI/UX Design</h5>
+                                <h5 class="text-black m-top-20">Ci diamo dentro</h5>
                             </div>
                             <div class="service_slid_text">
                                 <span class="icon icon icon-sports-2 text-black"></span>
-                                <h5 class="text-black m-top-20">UI/UX Design</h5>
+                                <h5 class="text-black m-top-20">Con una buona frequenza</h5>
                             </div>
                         </div>
                     </div>
@@ -21,14 +21,12 @@
                 <div class="col-md-5 col-md-offset-1">
                     <div class="service_item sm-m-top-50">
                         <div class="head_title">
-                            <h2 class="text-uppercase">Our <strong>Service</strong></h2>
+                            <h2 class="text-uppercase">Che <strong>Famo</strong></h2>
                         </div>
                         <div class="service_content">
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit donec fringilla iaculis facilisis
-                                morbi nulla lectus, luctus interdum eu ultricies ac tortor maecenas nec massa sit
-                                amet erat condimentum porttitor ac quis turpis.</p>
+                            <p>Realizziamo i tuoi sogni, quelli che hai sempre tenuto nel cassetto, quelli per cui sei disposto a pagare. Tanto.</p>
 
-                            <a href="" class="btn btn-default m-top-40">Read More</a>
+                            <a href="http:\\domenicofioredda.it" class="btn btn-default m-top-40">Prezzi</a>
                         </div>
                     </div>
                 </div>

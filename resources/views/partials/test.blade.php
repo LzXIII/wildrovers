@@ -34,7 +34,7 @@
                 <div class="col-md-6 sm-m-top-40">
                     <div class="test_item1 fix ">
                         <div class="head_title fix">
-                            <h2 class="text-uppercase">What <strong>Client Say</strong></h2>
+                            <h2 class="text-uppercase">Quanno <strong>o Famo</strong></h2>
                         </div>
                         <div class="item_img">
                             <img class="img-circle" src="assets/images/test-img1.jpg" alt="" />
@@ -42,12 +42,10 @@
                         </div>
 
                         <div class="item_text">
-                            <h5>Sarah Smith</h5>
-                            <h6>envato.com</h6>
+                            {{-- <h5>Sarah Smith</h5>
+                            <h6>envato.com</h6> --}}
 
-                            <p>Natus voluptatum enim quod necessitatibus quis
-                                expedita harum provident eos obcaecati id culpa
-                                corporis molestias.</p>
+                            <p>Dipende da quanto spendi.</p>
                         </div>
                     </div>
                 </div>

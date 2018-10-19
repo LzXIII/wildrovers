@@ -6,12 +6,9 @@
                 <div class="col-md-6">
                     <div class="teams_item">
                         <div class="head_title">
-                            <h2 class="text-uppercase">Our <strong>Best Team & Skill</strong></h2>
+                            <h2 class="text-uppercase">Il nostro <strong>Team</strong></h2>
                         </div>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit donec fringilla iaculis
-                            facilisis morbi nulla lectus, luctus interdum eu ultricies tortor maecenas
-                            nec massa sit amet erat condimentum porttitorac quis turpis nulla
-                            lectus sit amet consectetur.</p>
+                        <p>Consolidato da anni di esperienza in avvistamento di materiale umano, il nostro team cerca l'innovazione più fresh.</p>
 
 
                     </div>
@@ -20,8 +17,8 @@
                     <div class="teams_item text-center sm-m-top-50">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img src="assets/images/team1.jpg" alt="" class="img-circle" />
-                                <h4 class="m-top-20">John <strong>Doe</strong></h4>
+                                <img src="images/lz.jfif" alt="" class="img-circle" />
+                                <h4 class="m-top-20">Lorenzo <strong>Campanella</strong></h4>
                                 <h5>Lead Designer</h5>
                                 <div class="separator"></div>
                                 <ul class="list-inline">
@@ -31,8 +28,8 @@
                                 </ul>
                             </div><!-- End off col-md-4 -->
                             <div class="col-sm-4">
-                                <img src="assets/images/team2.jpg" alt="" class="img-circle" />
-                                <h4 class="m-top-20">Sarah <strong>Smith</strong></h4>
+                                <img src="images/dom.jpg" alt="" class="img-circle" />
+                                <h4 class="m-top-20">Domenico <strong>Fioredda</strong></h4>
                                 <h5>UX Designer</h5>
                                 <div class="separator"></div>
                                 <ul class="list-inline">
@@ -42,9 +39,9 @@
                                 </ul>
                             </div><!-- End off col-md-4 -->
                             <div class="col-sm-4">
-                                <img src="assets/images/team3.jpg" alt="" class="img-circle" />
-                                <h4 class="m-top-20">Fabian <strong>Doe</strong></h4>
-                                <h5>Web Engineer</h5>
+                                <img src="images/look.jpg" alt="" class="img-circle" />
+                                <h4 class="m-top-20">Gaetano <strong>Valenzano</strong></h4>
+                                <h5>Sgnacchera Engineer</h5>
                                 <div class="separator"></div>
                                 <ul class="list-inline">
                                     <li><a href=""><i class="fa fa-facebook"></i></a></li>

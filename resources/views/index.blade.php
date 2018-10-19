@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Made Three</title>
+        <title>Wild Rovers</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/png" href="favicon.ico">
@@ -99,11 +99,11 @@
                     <div class="collapse navbar-collapse" id="navbar-menu">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">Home</a></li>
-                            <li><a href="#features">About</a></li>
-                            <li><a href="#service">Service</a></li>
-                            <li><a href="#portfolio">Portfolio</a></li>
-                            <li><a href="#test">Testimonial</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                            <li><a href="#features">Chi Siamo</a></li>
+                            <li><a href="#service">Che Famo</a></li>
+                            <li><a href="#portfolio">Perché lo Famo</a></li>
+                            <li><a href="#test">Quanno o Famo</a></li>
+                            <li><a href="#contact">Contattace</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div>
@@ -123,7 +123,7 @@
                                         <div class="home_text">
                                               {{-- <img src="images/audiovisivo.jpg" class="logo" alt=""> --}}
                                               <h1 class="text-yellow">Welcome to Wild Rovers</h1>
-                                            <h3 class="text-white text-uppercase">La Rivista per il Multimedia moderno</h3>
+                                            <h3 class="text-white text-uppercase">Hard Designs</h3>
                                         </div>
                                     </div><!-- End off slid item -->
 
@@ -175,14 +175,12 @@
                             <div class="col-md-5">
                                 <div class="features_item">
                                     <div class="head_title">
-                                        <h2 class="text-uppercase">Our <strong>Featured</strong></h2>
+                                        <h2 class="text-uppercase">Chi <strong>Siamo</strong></h2>
                                     </div>
                                     <div class="featured_content">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit donec fringilla iaculis facilisis
-                                            morbi nulla lectus, luctus interdum eu ultricies ac tortor maecenas nec massa sit
-                                            amet erat condimentum porttitor ac quis turpis.</p>
+                                        <p>Ci diamo dentro, sempre.</p>
 
-                                        <a href="" class="btn btn-default m-top-40">Read More</a>
+                                        <a href="" class="btn btn-default m-top-40">Che vor di?</a>
                                     </div>
                                 </div>
                             </div>
@@ -201,7 +199,7 @@
                                         <div class="col-xs-6">
                                             <div class="features_item_text">
                                                 <img src="assets/images/featured2.jpg" alt="" class="img-circle" />
-                                                <p class="m-top-20">Easy to Customize</p>
+                                                <p class="m-top-20">Facile da personalizzare</p>
                                             </div>
                                         </div>
                                         <div class="col-xs-6">
@@ -213,7 +211,7 @@
                                         <div class="col-xs-6">
                                             <div class="features_item_text m-top-50">
                                                 <img src="assets/images/featured4.jpg" alt="" class="img-circle" />
-                                                <p class="m-top-20">Free Google Font</p>
+                                                <p class="m-top-20">Lo teniamo alto (l'interesse)</p>
                                             </div>
                                         </div>
 
@@ -227,7 +225,7 @@
 
           @include('partials.business')
           @include('partials.team')
-          @include('partials.choose')
+          {{-- @include('partials.choose') --}}
           @include('partials.portfolio')
           @include('partials.test')
           @include ('partials.footer')
